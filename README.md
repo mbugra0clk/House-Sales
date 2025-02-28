@@ -37,6 +37,10 @@ Katkı:
 
 Bu proje, konut piyasası analizine ilgi duyan herkesin katkısına açıktır. İyileştirme önerileri ve ek analizler memnuniyetle karşılanır.
 
+
+
+ENGLISH
+
 Title: Visual Analysis of Factors Influencing Housing Prices
 
 Description:
