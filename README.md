@@ -4,6 +4,8 @@ Açıklama:
 
 Bu proje, bir konut veri setindeki temel değişkenlerin (yaşam alanı, bina sınıfı, arazi değeri ve banyo sayısı) konut satış fiyatları üzerindeki etkisini görselleştirmeyi amaçlamaktadır. Proje kapsamında oluşturulan dört adet grafik, bu değişkenlerin satış fiyatı ile olan ilişkisini açıkça ortaya koymaktadır.
 
+![indir](https://github.com/user-attachments/assets/a68f286b-3f3c-4ec9-9ec1-fed6afb0da5e)
+
 Grafikler:
 
 Yaşam Alanı (SqFtTotLiving) vs. Satış Fiyatı (SalePrice):
